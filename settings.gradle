@@ -1,0 +1,13 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'Software-performance'
+include '0-password-hashing'
+include '1-processing-files'
+include '2-complexity-hashmap'
+include '3-1-microservices-breaker-bookstore'
+include '3-2-microservices-breaker-reading'
+include '4-2-scaling'
+include '5-caching'
